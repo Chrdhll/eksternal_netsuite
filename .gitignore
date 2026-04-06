@@ -1,0 +1,5 @@
+# Jangan pernah bawa file rahasia ini ke GitHub!
+.env
+
+# Abaikan file cache bawaan Python
+__pycache__/
